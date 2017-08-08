@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "745428120674",
+    "firebase_url": "https://fir-inventory-app-f7c78.firebaseio.com",
+    "project_id": "fir-inventory-app-f7c78",
+    "storage_bucket": "fir-inventory-app-f7c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745428120674:android:9546f988d5f55b36",
+        "android_client_info": {
+          "package_name": "com.example.a15056112.firebaseinventoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745428120674-k62fotrhj6q0jtl2j3i6guaghjmhq6v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhbdIJ9TqfHwA5bffv8qQjxeZyAF6C5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
